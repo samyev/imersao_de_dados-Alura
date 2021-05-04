@@ -12,3 +12,8 @@ url_dados = 'https://github.com/alura-cursos/imersaodados3/blob/main/dados/dados
 dados = pd.read_csv(url_dados, compression = 'zip')
 print(dados)
 ~~~
+<p align="center">
+  <img src="/img/tabela.png">
+</p>
+
+
